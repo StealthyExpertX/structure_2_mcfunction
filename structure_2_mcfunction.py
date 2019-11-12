@@ -1,5 +1,6 @@
 # Structure to function command
 # V0.2
+
 # Created by dakonblackrose & StealthyExpert
 #Made some edits so it uses relative coordinates.
 from pymclevel import MCSchematic
